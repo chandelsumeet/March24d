@@ -1,0 +1,109 @@
+.gray1
+{
+	background-color: #d6d6d6;
+}
+.blue
+{
+	background-color: #1e79fa;
+}
+.green
+{
+	background-color: #0c7307;
+}
+.white
+{
+	background-color: white;
+}
+.red
+{
+	background-color: #de2d12;
+}
+.yellow
+{
+	background-color: #d6d600;
+}
+.bar
+{
+	width: 300px;
+}
+.bar1
+{
+	width: 60%;
+	height: 20px;
+}
+.b-r10
+{
+	border-radius: 10px;
+}
+.color-white
+{
+	color: white;
+}
+.text
+{
+	text-align: center;
+}
+.bar2
+{
+	width: 10%;
+	height: 20px
+}
+.bar3
+{
+	width: 40%;
+	height: 20px
+}
+.bar4
+{
+	width: 80%;
+	height: 20px
+}
+.bar5
+{
+	width: 35%;
+	height: 20px
+}
+
+.b-r4
+{
+	border-radius: 4px;
+}
+.master
+{
+	display: grid;
+	
+	grid-auto-rows: auto;
+	grid-row-gap: 30px;
+}
+.bar6
+{
+	height: 6px;
+}
+.cir
+{
+	border-radius: 50%;
+}
+.circ-width
+{
+	width: 200px;
+	height: 200px;
+}
+.circ-in
+{
+	width: 60%;
+	height: 20px;
+}
+.btn1
+{
+	width: 250px;
+	height: 250px;
+	display: grid;
+	align-content: center;
+	justify-content: center;
+}
+.btn2
+{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
